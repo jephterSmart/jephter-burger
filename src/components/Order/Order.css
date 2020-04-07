@@ -1,0 +1,20 @@
+.Order{
+    width: 80%;
+    padding: 20px 5%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 3px #ddd;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+.Order span{
+    display: inline-block;
+    border: 1px solid #bbb;
+    text-transform: capitalize;
+    margin: 5px 15px;
+    padding: 5px;
+}
+/* @media (min-width:600px){
+    .Order{
+        width:500px;
+    }
+} */
